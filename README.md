@@ -1,12 +1,12 @@
 X-Twitter Clone (Frontend UI)
 
-Welcome to my responsive Twitter/X frontend clone! This project is built using TailwindCSS, HTML, and JavaScript. 🖤✨
+Welcome to my responsive Twitter/X frontend clone! This project is built using TailwindCSS, HTML. 🖤✨
 
 Note: This is a frontend-only clone. No backend or real-time data integration. All posts and interactions are purely UI simulations.
 
 🚀 Live Demo
 
-Check it out in action here: 🔗 Live Demo (replace with your hosted link)
+Check it out in action here: 🔗[ Live Demo https://x-twitter-clone-frontend-ui.vercel.app/
 
 🌟 Features Left Sidebar
 
